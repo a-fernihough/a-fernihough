@@ -1,4 +1,16 @@
-### Hi there 👋
+# Alan Fernihough
+
+## Senior Lecturer in Economics, Queen's University Belfast [[link]](https://pure.qub.ac.uk/en/persons/alan-fernihough/)
+## Research associate at the Queen's University Centre for Economic History [[link]](http://www.quceh.org.uk/research-associates.html)
+## Research affiliate at the CEPR [[link]](https://portal.cepr.org/users/afernihoughqubacuk)
+
+### Research Interests
+* Economic History
+* Demography
+* Applied Econometrics
+
+### Research Interests
+
 
 <!--
 **a-fernihough/a-fernihough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
