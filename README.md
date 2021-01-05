@@ -9,7 +9,7 @@
 * Demography
 * Applied Econometrics
 
-### [[Publications]](later)
+### [[Publications]](https://a-fernihough.github.io/bibliography.html)
 
 ### [[`R` Code]](later)
 
