@@ -23,12 +23,12 @@
 
 ### `R` Code
 
-#### Econometrics
+* Econometrics
 
-#### Data
+* Data
 
-#### Spatial
+* Spatial
 
-#### Data Viz
+* Data Viz
 
 ***
