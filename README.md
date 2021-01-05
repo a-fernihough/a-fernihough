@@ -29,6 +29,6 @@
 
 * Spatial
 
-* Data Viz [[link]] (https://github.com/a-fernihough/Data-Viz)
+* Data Viz: https://github.com/a-fernihough/Data-Viz
 
 ***
