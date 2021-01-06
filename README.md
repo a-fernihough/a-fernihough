@@ -25,7 +25,7 @@
 
 * Econometrics: https://github.com/a-fernihough/Econometrics
 
-* Data
+* Data: https://github.com/a-fernihough/Data
 
 * Spatial
 
